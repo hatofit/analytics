@@ -1,0 +1,16 @@
+# Ignore generated model files and directories
+generated_models/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore system and IDE specific files
+.DS_Store
+.vscode/
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.log
+
+venv/
